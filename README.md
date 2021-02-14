@@ -1,3 +1,1 @@
-Project 1 - Front End - Free Code Camp
-
-Build a random quote machine (it is working 12/12)
+## [A randome quote machine](https://barlowe90.github.io/random-quote-machine/)
