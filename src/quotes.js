@@ -19,4 +19,32 @@ export const data = [
     frase: "blu blu blu",
     author: "author 5",
   },
+  {
+    frase: "blu blu blu",
+    author: "author 6",
+  },
+  {
+    frase: "blu blu blu",
+    author: "author 7",
+  },
+  {
+    frase: "blu blu blu",
+    author: "author 8",
+  },
+  {
+    frase: "blu blu blu",
+    author: "author 9",
+  },
+  {
+    frase: "blu blu blu",
+    author: "author 10",
+  },
+  {
+    frase: "blu blu blu",
+    author: "author 11",
+  },
+  {
+    frase: "blu blu blu",
+    author: "author 12",
+  },
 ];
