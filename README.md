@@ -1,1 +1,1 @@
-Projec 1 - Front End - Free Code Camp
+Project 1 - Front End - Free Code Camp
